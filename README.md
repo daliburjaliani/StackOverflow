@@ -1,39 +1,44 @@
-# StackOverflow 2023 survey analysis
+# StackOverflow 2023 Survey Analysis
 
-analyse stackOverflow survey result to see popular languages, salary ranges, employment, compare 2 european salary ranges
+Analyze StackOverflow survey results to examine popular languages, salary ranges, employment, and compare two European salary ranges.
 
-### Table of Contents
+## Table of Contents
 
-1. Functions 
-2. Largest amount of salary
-3. Coding years
+1. Functions
+2. Largest Amount of Salary
+3. Coding Years
 4. Employment
 5. Employment with Degree
-6. Popular languages
-7. Germany and Italy comparison 
+6. Popular Languages
+7. Germany and Italy Comparison
 
+## Functions
 
+Create functions for calculating percentages, creating bar charts, and creating pie charts.
 
+## Largest Amount of Salary
 
+Print the 10 largest amounts of salary and their corresponding developer types.
+Group countries and print mean, median, minimum, and maximum salaries, sorting values by median.
+Print the maximum salary grouped by country, sorted by country and maximum salary.
 
+## Coding Years
 
-###Functions
-create functions for calculate percent, create bar charts, create pie charts
-###Largest amount of salary
-print 10 largest amount of salary and Developer types.
-group countries and print mean, median, min, max of salary, sorting values by median
-print max of salary grouped by country, sorting by country and max salary
-###Coding years
-read and group years of coding, create bar chart that shows "less Than 5 years", "5 to 10", "10 to 20", "more than 20"  by percentage
-###Employment
-count employed, not employed, student and retired respondents and create bar chart
-###Employed with Degree
-use 2 filter to read respondents with Degree that are Employed and Not employed, create Pie charts to compare
-###Popular languages
-Count popular languages and create bar chart to represent Top 15 Popular
-Count popular languages in georgia by grouped data and represent Top 15 popular by bar chart
-###Germany and Italy comparison
-Compare Italy and Germany by salary, using grouped data and aggregation functions.
-Represent results by grouped bar chart
+Read and group years of coding experience, then create a bar chart that shows "Less Than 5 years," "5 to 10 years," "10 to 20 years," and "More than 20 years" by percentage.
 
- 
+## Employment
+
+Count employed, unemployed, student, and retired respondents and create a bar chart.
+
+## Employment with Degree
+
+Use two filters to read respondents with degrees who are employed and not employed and create pie charts to compare the two groups.
+
+## Popular Languages
+
+Count popular programming languages and create a bar chart to represent the top 15 popular languages.
+Count popular languages in Georgia by grouped data and represent the top 15 popular languages by a bar chart.
+
+## Germany and Italy Comparison
+
+Compare salary data in Italy and Germany using grouped data and aggregation functions. Represent the results with a grouped bar chart.
